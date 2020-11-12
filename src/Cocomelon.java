@@ -8,6 +8,7 @@ public class Cocomelon {
          System.out.println(each);
          System.out.println(Arrays.toString(scores));
      }
+     //Done for today.
 
     }
 }
